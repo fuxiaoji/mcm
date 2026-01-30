@@ -1,0 +1,6 @@
+week,n_participants,target_score,target_judge_rank,pct_eliminated,rank_eliminated,target_would_be_elim_pct,target_would_be_elim_rank,actual_eliminated,actual_eliminated_name
+1,13,6.666666666666667,5,12,12,False,False,8,Nikki Glaser
+2,12,6.5,10,11,11,False,False,5,Danelle Umstead
+3,11,7.666666666666667,8,10,10,False,False,2,Nancy McKeon
+4,10,6.666666666666667,9,9,9,False,False,7,Tinashe
+6,9,7.333333333333333,8,2,2,False,False,4,Mary Lou Retton
